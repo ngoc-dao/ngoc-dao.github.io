@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    margin-top: 50px;
+}
+
+#about {
+    text-decoration: dotted;
+    color: red;
+}
+
+section {
+    border: 2px solid black;
+    padding: 5px
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+
+header ul {
+    padding: 0;
+}
+
+header li {
+    margin-left: 20px
+}
+
+section h2 {
+    font-size: 3.5em;
+}
+
+section h4 {
+    font-size: 1.5em;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color: darkred;
+}
+
+.special-li {
+    color: forestgreen;
+}
+
+footer {
+    text-align: center;
+    padding: 50px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
